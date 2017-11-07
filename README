@@ -1,4 +1,4 @@
-SimpleGit Ruby Library // testing branching
+SimpleGit Ruby Library // testing branching 2
 ======================
 
 This library calls git commands and returns the output.
