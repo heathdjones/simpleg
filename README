@@ -1,5 +1,6 @@
 SimpleGit Ruby Library // amend last comment (AGAIN!)
 comit after coommit to delete
+1st commit on topicbranch
 ======================
 
 This library calls git commands and returns the output.
