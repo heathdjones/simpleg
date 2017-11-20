@@ -1,4 +1,5 @@
-SimpleGit Ruby Library // change on master
+SimpleGit Ruby Library // amend last comment (AGAIN!)
+comit after coommit to delete
 ======================
 
 This library calls git commands and returns the output.
