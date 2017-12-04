@@ -18,3 +18,4 @@ class SimpleGit
     end
   
 end
+# testing stashing
