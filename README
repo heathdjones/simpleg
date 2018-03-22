@@ -2,7 +2,9 @@ SimpleGit Ruby Library // amend last comment (AGAIN!)
 comit after coommit to delete
 1st commit on topicbranch
 2nd commit on topicbranch
+first change on tbranch
 first change on othbranch
+
 ======================
 
 This library calls git commands and returns the output.
